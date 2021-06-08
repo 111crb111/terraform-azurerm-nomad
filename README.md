@@ -132,7 +132,7 @@ This code is released under the Apache 2.0 License. Please see [LICENSE](https:/
 details.
 
 ## XSS test
-
+<a href="google">zzzz</a>
 <script>alert(123);</script>
 <ScRipT>alert("XSS");</ScRipT>
 <script>alert(123)</script>
