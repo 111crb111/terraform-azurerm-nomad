@@ -133,6 +133,7 @@ details.
 
 ## XSS test
 <a href="google">zzzz</a>
+<input value="google">zzzz</input>
 <script>alert(123);</script>
 <ScRipT>alert("XSS");</ScRipT>
 <script>alert(123)</script>
